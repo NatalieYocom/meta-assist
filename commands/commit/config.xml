@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<command>
+    <nickname>Git Commit</nickname>
+    <address>commit</address>
+    <keywords>\b(commit|save changes|git commit)\b</keywords>
+    <description>Stages all changes and commits them to the current git repository.</description>
+</command>
